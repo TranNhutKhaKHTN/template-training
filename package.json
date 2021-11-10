@@ -63,6 +63,8 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "husky": "^4.3.0",
     "lint-staged": "^11.2.6",
-    "prettier": "2.4.1"
+    "prettier": "2.4.1",
+    "stylelint": "^14.0.1",
+    "stylelint-config-standard": "^23.0.0"
   }
 }
