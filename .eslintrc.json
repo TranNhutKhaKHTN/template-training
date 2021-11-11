@@ -12,6 +12,7 @@
     "sourceType": "module"
   },
   "plugins": ["react", "eslint-comments", "react-hooks"],
+  "ignorePatterns": ["next.config.js", "src/reportWebVitals.js"],
   "rules": {
     "react/jsx-wrap-multilines": 0,
     "react/prop-types": 0,
